@@ -37,25 +37,6 @@ We propose X-MuTeST (eXplainable Multilingual haTe Speech deTection), an explain
 
 <img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/X-MuTeST.png" width="1000" />
 
----
-
-## ✏️ Annotation Process
-
-### Pilot Annotation
-
-#### Objective
-To select annotators proficient in identifying hate speech and providing token-level rationales that justify their classifications.
-
-#### Task Setup
-- Annotators were given 15 sample posts and tasked to:
-  1. Classify each post as hateful, offensive, or normal.  
-  2. Highlight specific tokens contributing to their decision (human rationales).  
-- Detailed guidelines and labeled examples were provided to ensure consistency.
-
-#### Selection Criteria
-- Annotators demonstrating high accuracy and strong rationale alignment were shortlisted.  
-- Out of 10 participants, five annotators were selected for the main task — ensuring **three annotators per language (Telugu, Hindi, English)**.  
-- Annotators were incentivized with **150 hours of free GPU access** and represented diverse linguistic backgrounds.
 
 ---
 
@@ -68,8 +49,6 @@ To select annotators proficient in identifying hate speech and providing token-l
 #### Iterative Annotation Procedure
 <img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/Iterative%20Annotation.png" width="500" />  
 
-#### Conflict Resolution
-- **Majority Voting:** Tokens were included in the final rationale if selected by at least **two of three annotators**, ensuring balanced representation.  
 
 #### Quality Assessment
 - Inter-annotator agreement measured using **Cohen’s Kappa (pairwise)** and **Fleiss’ Kappa (overall)**.  
