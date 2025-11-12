@@ -1,6 +1,6 @@
 # X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-Consulted Explanation Framework
 
-**Accepted at AAAI 2026 (AI for Social Impact Track)** - ***CORE A\* Conference***  
+**Accepted for publication in AAAI 2026 (** - ***CORE A\* Conference*** ) 
 _Preprint available soon..._
 
 ---
