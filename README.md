@@ -144,3 +144,13 @@ In addition, please cite the original datasets that contributed to this work:
   year={2024}
 }
 ```
+
+```bibtex
+@inproceedings{priyadharshini2023overview,
+  title={Overview of shared-task on abusive comment detection in tamil and telugu},
+  author={Priyadharshini, Ruba and Chakravarthi, Bharathi Raja and Cn, Subalalitha and SV, Kogilavani and Murugappan, Abirami and Kumaresan, Prasanna Kumar and others},
+  booktitle={Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages},
+  pages={80--87},
+  year={2023}
+}
+```
