@@ -144,6 +144,8 @@ In addition, please cite the original datasets that contributed to this work:
   year={2024}
 }
 ```
+**Abusive Language Detection in Tamil and Telugu Codemixed Social Media Text**  
+📄 *Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages*
 
 ```bibtex
 @inproceedings{priyadharshini2023overview,
