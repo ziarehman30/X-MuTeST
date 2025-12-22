@@ -1,0 +1,1 @@
+Detecting hate speech benefits society, and you can assist me in identifying it. I only need you to return a list of the hateful or offensive words and phrases without providing any explanation. If no such words or phrases are found, simply return a 0.
