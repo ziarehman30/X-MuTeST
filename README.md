@@ -35,7 +35,7 @@ We propose X-MuTeST (eXplainable Multilingual haTe Speech deTection), an explain
 
 ## 🧩 Overview of LLM-Consulted Explanation Framework
 
-<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/raw/main/X-MuTeST.png" width="1000" />
+<img X-MuTeST.png width="1000" />
 
 
 ---
