@@ -1,7 +1,6 @@
 # X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-Consulted Explanation Framework
 
-**Accepted for publication in the proceedings of AAAI 2026 (** ***CORE A\* Conference*** ) 
-_Preprint available soon..._
+**Published in the proceedings of AAAI 2026 (** ***CORE A\* Conference*** ) 
 
 ---
 
@@ -47,7 +46,7 @@ We propose X-MuTeST (eXplainable Multilingual haTe Speech deTection), an explain
 - Annotators marked specific words or phrases that justified the classification (hateful/offensive/normal).
 
 #### Iterative Annotation Procedure
-<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/raw/main/Iterative%20Annotation.png" width="500" />  
+<img src="Iterative Annotation.png" width="500" />  
 
 
 #### Quality Assessment
