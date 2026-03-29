@@ -35,7 +35,7 @@ We propose X-MuTeST (eXplainable Multilingual haTe Speech deTection), an explain
 
 ## 🧩 Overview of LLM-Consulted Explanation Framework
 
-<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/X-MuTeST.png" width="1000" />
+<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/raw/main/X-MuTeST.png" width="1000" />
 
 
 ---
@@ -47,7 +47,7 @@ We propose X-MuTeST (eXplainable Multilingual haTe Speech deTection), an explain
 - Annotators marked specific words or phrases that justified the classification (hateful/offensive/normal).
 
 #### Iterative Annotation Procedure
-<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/Iterative%20Annotation.png" width="500" />  
+<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/raw/main/Iterative%20Annotation.png" width="500" />  
 
 
 #### Quality Assessment
